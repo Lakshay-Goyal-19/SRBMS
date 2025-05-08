@@ -1,7 +1,6 @@
 package controller;
 import database.Database; // Added missing import
 import entity.*;
-import java.util.UUID;
 import java.util.List; 
 import services.*;  
 import java.util.Calendar; 
